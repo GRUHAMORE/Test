@@ -1,0 +1,56 @@
+# Virtual environment
+venv/
+testenv/
+env/
+.venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database files
+db.sqlite3
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.so
+*.pyo
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE files
+.vscode/
+.idea/
+# Virtual environment
+venv/
+testenv/
+env/
+.venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database files
+db.sqlite3
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.so
+*.pyo
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE files
+.vscode/
+.idea/
