@@ -17,3 +17,5 @@ Student==0.0.1
 tzdata==2023.3
 views==0.3
 virtualenv==20.26.1
+gunicorn==20.1.0
+whitenoise==6.4.0
