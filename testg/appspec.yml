@@ -2,9 +2,9 @@ version: 0.0
 os: linux
 files: 
   - source: /
-    destination: /home/ubuntu/TEST
+    destination: /home/ubuntu/testg
 permissions:
-  - object: /home/ubuntu/TEST
+  - object: /home/ubuntu/testg
     owner: ubuntu
     group: ubuntu
 hooks:
