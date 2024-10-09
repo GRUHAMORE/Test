@@ -19,7 +19,8 @@ phases:
       - pip3 install -r requirements.txt
   build:
     commands:
-      - echo Building the application 
+      - echo Running tests for the 'test' project...
+      - python manage.py test test 
   post_build:
     commands:
       - echo Build completed on `date`
